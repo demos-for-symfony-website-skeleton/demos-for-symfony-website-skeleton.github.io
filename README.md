@@ -1,4 +1,4 @@
-# [symfony-website-skeleton-demo](https://symfony-website-skeleton-demo.github.io)
+# [symfony-website-skeleton-demo](https://symfony-website-skeleton-demo.github.io)@[GitHub](https://github.com/symfony-website-skeleton-demo)
 
 # See also
 ## Symfony Flex
